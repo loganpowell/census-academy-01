@@ -47,6 +47,6 @@ Description:
 
 
 **Did we miss a library you use/love? Let us know in one of our community channels:**
-## - [Slack](https://join.slack.com/t/uscensusbureau/shared_invite/enQtMjQ3NzUyNTM3NDU3LTZmNGI1MmQzY2Y2ZTU1ODJhNDQwMmY2YmZiNmFkNzg4YmJkYmQzZjQyNDhkNDYxN2JhYjkxZDEwMGI2OGU5NzQ)
-## - [Gitter](https://gitter.im/uscensusbureau/home)
+## [Slack](https://join.slack.com/t/uscensusbureau/shared_invite/enQtMjQ3NzUyNTM3NDU3LTZmNGI1MmQzY2Y2ZTU1ODJhNDQwMmY2YmZiNmFkNzg4YmJkYmQzZjQyNDhkNDYxN2JhYjkxZDEwMGI2OGU5NzQ)
+## [Gitter](https://gitter.im/uscensusbureau/home)
 _or send us an email: cnmp.developers.list@census.gov_
