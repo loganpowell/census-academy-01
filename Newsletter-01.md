@@ -4,31 +4,31 @@ Today, we'd like to share some of the work of some of our most important communi
 
 # Python
 
-## [`census`](https://github.com/datamade/census)
+### [`census`](https://github.com/datamade/census)
 Author: [Data Made](https://datamade.us/)
 > A simple wrapper for the United States Census Bureau's API. Provides access to ACS, SF1, and SF3 data sets.
 
-##  [`cenpy`](https://github.com/ljwolf/cenpy)
+###  [`cenpy`](https://github.com/ljwolf/cenpy)
 Author: [Levi John Wolf](http://ljwolf.org)
 > An interface to explore and query the US Census API and return Pandas Dataframes. Ideally, this package is intended for exploratory data analysis and draws inspiration from sqlalchemy-like interfaces and acs.R.
 
 
 # R
-## [`tidycensus`](https://github.com/walkerke/tidycensus)
+### [`tidycensus`](https://github.com/walkerke/tidycensus)
 Author: [Kyle Walker](https://www.linkedin.com/in/walkerke/)
 > R package that allows users to interface with the US Census Bureau’s decennial Census and five-year American Community APIs and return tidyverse-ready data frames, optionally with simple feature geometry included. 
 
-## [`censusapi`](https://github.com/hrecht/censusapi)
+### [`censusapi`](https://github.com/hrecht/censusapi)
 Author: [Hannah Recht](https://hrecht.github.io/)
 > `censusapi` is an accessor for the United States Census Bureau's APIs. As of 2017 over 200 Census API endpoints are available, including Decennial Census, American Community Survey, Poverty Statistics, and Population Estimates APIs. This package is designed to let you get data from all of those APIs using the same main function — `getCensus` — and the same syntax for each dataset.
 
 # Ruby
-## [`census_api`](https://github.com/tyrauber/census_api)
+### [`census_api`](https://github.com/tyrauber/census_api)
 Author: [Ty Rauber](https://www.linkedin.com/in/ty-rauber-69822b5/)
 > A Ruby Gem for querying the US Census Bureau API
 
 # JavaScript
-## [`citysdk`](https://github.com/uscensusbureau/citysdk)
+### [`citysdk`](https://github.com/uscensusbureau/citysdk)
 Author: [US Census Bureau](https://www.census.gov/developers)
 > Convenience JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties
 
@@ -39,5 +39,5 @@ Author: [US Census Bureau](https://www.census.gov/developers)
 ## [Gitter](https://gitter.im/uscensusbureau/home)
 _or send us an email: cnmp.developers.list@census.gov_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjYzNzY3MV19
+eyJoaXN0b3J5IjpbMTc3NDkwOTQ0OV19
 -->
