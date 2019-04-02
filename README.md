@@ -17,8 +17,8 @@ Description:
 
 # R
 #### [`tidycensus`](https://github.com/walkerke/tidycensus)
-- Author: [Kyle Walker](https://www.linkedin.com/in/walkerke/)
-- Description: 
+Author: [Kyle Walker](https://www.linkedin.com/in/walkerke/)
+Description: 
 > R package that allows users to interface with the US Census Bureau’s decennial Census and five-year American Community APIs and return tidyverse-ready data frames, optionally with simple feature geometry included. 
 
 #### [`censusapi`](https://github.com/hrecht/censusapi)
